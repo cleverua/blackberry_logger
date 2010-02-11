@@ -11,12 +11,4 @@ public class LoggerApplication extends UiApplication {
         application.pushScreen(new LoggerApplicationScreen());
         application.enterEventDispatcher();
     }
-
-    /*public static LoggerApplication instance() {
-        return application;
-    }*/
-
-    /*public static void exit() {
-        System.exit(0);
-    }*/
 }
