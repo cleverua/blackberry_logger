@@ -22,6 +22,8 @@ AutoRestart=0
 Description=File logging facility. Uses a file on DSCard to store log entries. MUST NOT BE USED EXCEPT FOR DEVELOPMENT PURPOSES!
 ExcludeFromBuildAll=0
 [Files
+src\com\cleverua\bb\example\LoggerApplication.java
+src\com\cleverua\bb\example\LoggerApplicationScreen.java
 src\com\cleverua\bb\logger\Logger.java
 ]
 HaveAlxImports=0
