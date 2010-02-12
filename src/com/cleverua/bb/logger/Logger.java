@@ -12,7 +12,7 @@ import net.rim.device.api.i18n.SimpleDateFormat;
 import net.rim.device.api.system.DeviceInfo;
 
 /**
- * File logging facility. Uses a file on DSCard to store log entries.
+ * File logging facility. Uses a file on SDCard to store log entries.
  * It's very raw and not optimal, it MUST NOT BE USED EXCEPT FOR DEVELOPMENT PURPOSES!
  * 
  * In order to turn it off just modify LOG_ENABLED boolean constant and rebuild the project.
