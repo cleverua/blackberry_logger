@@ -1,4 +1,4 @@
-package com.cleverua.bb.logger;
+package com.cleverua.bb.utils;
 
 import java.io.IOException;
 import java.io.OutputStream;

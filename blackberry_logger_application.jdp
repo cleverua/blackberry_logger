@@ -24,7 +24,7 @@ ExcludeFromBuildAll=0
 [Files
 src\com\cleverua\bb\example\LoggerApplication.java
 src\com\cleverua\bb\example\LoggerApplicationScreen.java
-src\com\cleverua\bb\logger\Logger.java
+src\com\cleverua\bb\utils\Logger.java
 ]
 HaveAlxImports=0
 HaveDefs=0
